@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Scrambled Eggs with Avocado",
+        "category": "Breakfast",
+        "ingredients": ["eggs", "avocado", "toast"],
+        "calories": 250,
+        "dietType": ["vegetarian"],
+        "copperContent": 0.2
+    },
+    {
+        "name": "Grilled Chicken Salad",
+        "category": "Lunch",
+        "ingredients": ["chicken breast", "lettuce", "tomatoes", "olive oil"],
+        "calories": 350,
+        "dietType": ["low-calorie"],
+        "copperContent": 0.1
+    },
+    {
+        "name": "Baked Salmon with Quinoa",
+        "category": "Dinner",
+        "ingredients": ["salmon", "quinoa", "steamed broccoli"],
+        "calories": 400,
+        "dietType": [],
+        "copperContent": 0.3
+    }
+]
+
